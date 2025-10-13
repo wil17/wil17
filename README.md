@@ -210,7 +210,7 @@ Interactive web-based GIS application for spatial data visualization
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/wil17/wil17/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/wil17/wil17/output/snake-dark.svg)
 
 </div>
 
