@@ -2,14 +2,13 @@
 
 <div align="center">
   
-### Full Stack Web Developer | Student | Tech Enthusiast
+### Full Stack Web Developer | Fresh Graduate | Tech Enthusiast
 
 *Crafting digital experiences with clean code and creative solutions*
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willynurgian17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willy-nurgian)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zedwilly)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zedwilly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willynurgian)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yxzwil)
 
 ![](https://komarev.com/ghpvc/?username=wil17&color=blueviolet&style=flat)
 
@@ -24,16 +23,15 @@ const willy = {
     pronouns: "he/him",
     location: "Banjarmasin, South Kalimantan, Indonesia",
     education: "Universitas Lambung Mangkurat",
-    status: "Student & Aspiring Full Stack Developer",
-    currentlyLearning: ["Tailwind CSS", "React.js", "Express.js"],
-    interests: ["Web Development", "UI/UX Design", "Problem Solving"],
-    funFact: "I think I am Humoris & Humble (I think I am Humoris & Humble)",
+    status: "Fresh Graduate & Aspiring Full Stack Developer",
+    interests: ["Web Development", "Problem Solving"],
+
     lifePhilosophy: "Code with purpose, design with passion",
-    askMeAbout: ["HTML", "CSS", "JavaScript", "PHP"]
+    askMeAbout: ["HTML", "CSS", "JavaScript", "PHP", "React.js", "Express.js", ]
 };
 ```
 
-> 🎯 **Current Focus:** Building responsive and scalable web applications while mastering modern JavaScript frameworks
+> 🎯 **Current Focus:** Building responsive and scalable web applications while mastering modern frameworks
 
 ---
 
@@ -68,7 +66,7 @@ const willy = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 
 </div>
 
@@ -119,7 +117,7 @@ A modern and elegant portfolio website showcasing my projects and skills
 - Smooth animations & transitions
 
 [![View Project](https://img.shields.io/badge/View-Project-success?style=flat-square)](https://github.com/wil17/portfolio)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://willynurgian.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://portowebwilly.vercel.app/)
 
 </td>
 <td width="50%">
@@ -180,7 +178,6 @@ Interactive web-based GIS application for spatial data visualization
 
 ```diff
 + 🎓 Studying Computer Science at Universitas Lambung Mangkurat
-+ 🌱 Currently learning Tailwind CSS, React.js & Express.js
 + 💡 Building projects to strengthen my full-stack development skills
 + 🎯 Goal: Become a proficient Full Stack Developer
 + 🤝 Open to collaborate on interesting web development projects
@@ -221,8 +218,8 @@ Interactive web-based GIS application for spatial data visualization
 <div align="center">
 
 ```text
-Frontend Development   ████████████████████░   90%
-Backend Development    ███████████████░░░░░░   75%
+Frontend Development   ███████████████░░░░░    75%
+Backend Development    ███████████████████     90%
 Database Management    ██████████████░░░░░░░   70%
 UI/UX Design          █████████████░░░░░░░░   65%
 Version Control       ████████████████████░   95%
@@ -248,10 +245,9 @@ API Development       ██████████████░░░░░�
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-willynurgian17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willynurgian17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Willy_Nurgian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willy-nurgian)
-[![Instagram](https://img.shields.io/badge/Instagram-@zedwilly-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zedwilly)
-[![Twitter](https://img.shields.io/badge/Twitter-@zedwilly-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zedwilly)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://drive.google.com/file/d/17_bU5U0cawCw10m4yTaBQ8UPZLzno8bX/view?usp=drive_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Willy_Nurgian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willynurgian)
+[![Instagram](https://img.shields.io/badge/Instagram-@zedwilly-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yxzwil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portowebwilly.vercel.app/)
 
 ---
 
