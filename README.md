@@ -246,7 +246,7 @@ API Development       ██████████████░░░░░�
 
 [![Email](https://img.shields.io/badge/Email-willynurgian17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willynurgian17@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Willy_Nurgian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willynurgian)
-[![Instagram](https://img.shields.io/badge/Instagram-@zedwilly-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yxzwil)
+[![Instagram](https://img.shields.io/badge/Instagram-@yxzwil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yxzwil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portowebwilly.vercel.app/)
 
 ---
