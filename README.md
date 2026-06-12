@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Gmail-willynurgian17-CBA6F7?style=flat-square&logo=gmail&logoColor=white&labelColor=1E1E2E)](mailto:willynurgian17@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-willynurgian-89B4FA?style=flat-square&logo=linkedin&logoColor=white&labelColor=1E1E2E)](https://linkedin.com/in/willynurgian)
 [![Portfolio](https://img.shields.io/badge/Portfolio-portowebwilly-A6E3A1?style=flat-square&logo=vercel&logoColor=white&labelColor=1E1E2E)](https://portowebwilly.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-@yxzwil-F38BA8?style=flat-square&logo=instagram&logoColor=white&labelColor=1E1E2E)](https://instagram.com/yxzwil)
+[![Instagram](https://img.shields.io/badge/Instagram-@yxzwil-F38BA8?style=flat-square&logo=instagram&logoColor=white&labelColor=1E1E2E)](https://instagram.com/wilverse__)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wil17&color=CBA6F7&style=flat-square&label=profile+views)
 
@@ -24,7 +24,7 @@ const willy: Developer = {
   name:       "Willy Nurgian",
   role:       "IT Programmer @ Ciputra Mitra Hospital",
   location:   "Banjarmasin, South Kalimantan 🇮🇩",
-  education:  "S.Kom · Universitas Lambung Mangkurat · 2025",
+  education:  "S.Kom · Universitas Lambung Mangkurat · 2024",
 
   stack: {
     frontend:  ["React.js", "Tailwind CSS", "Bootstrap"],
@@ -156,18 +156,39 @@ Complete e-commerce with admin dashboard and payment integration
 
 </div>
 
+---
+
+## 🔥 Contribution Streak
+
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wil17&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wil17&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7&sideLabels=CDD6F4&dates=888899&stroke=CBA6F733)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📅 Contribution Heatmap
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wil17&theme=react-dark&bg_color=1E1E2E&color=CBA6F7&line=89B4FA&point=F38BA8&hide_border=true&area=true&area_color=20184A&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days)](https://github.com/wil17)
+
+</div>
+
+---
+
+## 📆 Monthly Contributions
+
+<div align="center">
+
+[![wil17 github activity](https://ghchart.rshah.org/CBA6F7/wil17)](https://github.com/wil17)
 
 </div>
 
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wil17&theme=react-dark&bg_color=1E1E2E&color=CBA6F7&line=89B4FA&point=F38BA8&hide_border=true&area=true&area_color=CBA6F7)
-
+<sub>Full year contribution calendar</sub>
 </div>
-
 
 ---
 
