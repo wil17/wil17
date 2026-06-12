@@ -1,101 +1,94 @@
-# Hi there, I'm Willy Nurgian 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Willy%20Nurgian&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Programmer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16"/>
+
+</div>
 
 <div align="center">
-  
-### Full Stack Web Developer | Fresh Graduate | Tech Enthusiast
 
-*Crafting digital experiences with clean code and creative solutions*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Building+systems+that+help+people+heal+%F0%9F%8F%A5;Laravel+%2B+React+%7C+Clean+Code+%7C+Real+Impact;IT+Programmer+%40+Ciputra+Mitra+Hospital)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willynurgian17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willynurgian)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yxzwil)
+[![Email](https://img.shields.io/badge/Gmail-willynurgian17-CBA6F7?style=flat-square&logo=gmail&logoColor=white&labelColor=1E1E2E)](mailto:willynurgian17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-willynurgian-89B4FA?style=flat-square&logo=linkedin&logoColor=white&labelColor=1E1E2E)](https://linkedin.com/in/willynurgian)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portowebwilly-A6E3A1?style=flat-square&logo=vercel&logoColor=white&labelColor=1E1E2E)](https://portowebwilly.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-@yxzwil-F38BA8?style=flat-square&logo=instagram&logoColor=white&labelColor=1E1E2E)](https://instagram.com/yxzwil)
 
-![](https://komarev.com/ghpvc/?username=wil17&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=wil17&color=CBA6F7&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
-## 🎓 About Me
+```typescript
+const willy: Developer = {
+  name:       "Willy Nurgian",
+  role:       "IT Programmer @ Ciputra Mitra Hospital",
+  location:   "Banjarmasin, South Kalimantan 🇮🇩",
+  education:  "S.Kom · Universitas Lambung Mangkurat · 2025",
 
-```javascript
-const willy = {
-    pronouns: "he/him",
-    location: "Banjarmasin, South Kalimantan, Indonesia",
-    education: "Universitas Lambung Mangkurat",
-    status: "Fresh Graduate & Aspiring Full Stack Developer",
-    interests: ["Web Development", "Problem Solving"],
+  stack: {
+    frontend:  ["React.js", "Tailwind CSS", "Bootstrap"],
+    backend:   ["Laravel", "Node.js", "Express.js"],
+    database:  ["MySQL", "PostgreSQL", "Firebase"],
+    tools:     ["Git", "Postman", "Bruno", "QGIS", "Figma"],
+  },
 
-    lifePhilosophy: "Code with purpose, design with passion",
-    askMeAbout: ["HTML", "CSS", "JavaScript", "PHP", "React.js", "Express.js", ]
+  currentlyBuilding: "UMKM Sasirangan — cultural marketplace for Banjarmasin batik 🪡",
+  openTo:            ["Freelance", "Collaboration", "Open Source"],
+  philosophy:        "Code with purpose, design with empathy",
 };
 ```
 
-> 🎯 **Current Focus:** Building responsive and scalable web applications while mastering modern frameworks
+---
+
+## 🏥 Currently On Duty
+
+> Working at a hospital sharpened one thing: **software has real consequences**. I build systems that need to be reliable, readable, and fast — because downtime isn't just an inconvenience here.
+
+| Status | Detail |
+|--------|--------|
+| 💼 **Day Job** | IT Programmer · Ciputra Mitra Hospital |
+| 🪡 **Side Project** | UMKM Sasirangan — Batik Marketplace *(in progress)* |
+| 📚 **Learning** | PostgreSQL deep-dive · REST API best practices |
+| 🤝 **Open to** | Freelance & interesting collaborations |
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages**
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1E1E2E?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1E1E2E?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E2E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-1E1E2E?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=3776AB)
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+**Frontend**
 
-### Database & Cloud Services
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-1E1E2E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1E1E2E?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1E1E2E?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Figma](https://img.shields.io/badge/Figma-1E1E2E?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+**Backend & Database**
 
+![Laravel](https://img.shields.io/badge/Laravel-1E1E2E?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Node.js](https://img.shields.io/badge/Node.js-1E1E2E?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-1E1E2E?style=for-the-badge&logo=express&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-1E1E2E?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E2E?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Firebase](https://img.shields.io/badge/Firebase-1E1E2E?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-</div>
+**Tools**
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wil17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wil17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wil17&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wil17&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=wil17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Git](https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-1E1E2E?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Bruno](https://img.shields.io/badge/Bruno-1E1E2E?style=for-the-badge&logo=bruno&logoColor=F4A261)
+![Socket.io](https://img.shields.io/badge/Socket.io-1E1E2E?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
+![QGIS](https://img.shields.io/badge/QGIS-1E1E2E?style=for-the-badge&logo=qgis&logoColor=589632)
 
 </div>
 
@@ -105,68 +98,48 @@ const willy = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📱 Responsive Web Portfolio
-A modern and elegant portfolio website showcasing my projects and skills
+### 🗺️ GIS Faskes Banjarmasin
+Interactive web GIS for mapping healthcare facilities across Banjarmasin city
 
-**Tech Stack:**
-- HTML5, CSS3, JavaScript
-- Tailwind CSS for styling
-- Responsive design principles
-- Smooth animations & transitions
+**Stack:** PHP · MySQL Spatial · Leaflet.js · QGIS
 
-[![View Project](https://img.shields.io/badge/View-Project-success?style=flat-square)](https://github.com/wil17/portfolio)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://portowebwilly.vercel.app/)
+[![Live](https://img.shields.io/badge/🌐_Live_Demo-A6E3A1?style=flat-square)](https://gisfaskesbanjarmasin.alwaysdata.net/)
+[![Repo](https://img.shields.io/badge/View_Repo-1E1E2E?style=flat-square&logo=github)](https://github.com/wil17/gis-app)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Full Stack E-Commerce
-Complete e-commerce platform with admin dashboard and payment integration
+### 🪡 UMKM Sasirangan *(in progress)*
+Cultural marketplace for Sasirangan batik crafts from Banjarmasin
 
-**Tech Stack:**
-- Laravel (Backend)
-- React.js (Frontend)
-- MySQL Database
-- REST API
-- Payment Gateway
+**Stack:** Laravel · React.js · MySQL · REST API
 
-[![View Project](https://img.shields.io/badge/View-Project-success?style=flat-square)](https://github.com/wil17/ecommerce)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://demo.com)
+[![Repo](https://img.shields.io/badge/View_Repo-1E1E2E?style=flat-square&logo=github)](https://github.com/wil17/umkm-sasirangan)
+![WIP](https://img.shields.io/badge/status-in_progress-CBA6F7?style=flat-square)
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💬 Real-Time Chat Application
-Feature-rich chat app with real-time messaging and file sharing
+### 💬 Real-Time Chat App
+Chat application with real-time messaging and file sharing
 
-**Tech Stack:**
-- Node.js & Express.js
-- Socket.io for real-time communication
-- Firebase for storage
-- React.js frontend
+**Stack:** Node.js · Express.js · Socket.io · Firebase · React.js
 
-[![View Project](https://img.shields.io/badge/View-Project-success?style=flat-square)](https://github.com/wil17/chat-app)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://demo.com)
+[![Repo](https://img.shields.io/badge/View_Repo-1E1E2E?style=flat-square&logo=github)](https://github.com/wil17/chat-app)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🗺️ GIS Mapping System
-Interactive web-based GIS application for spatial data visualization
+### 🛒 Full Stack E-Commerce
+Complete e-commerce with admin dashboard and payment integration
 
-**Tech Stack:**
-- QGIS integration
-- Leaflet.js for maps
-- PHP backend
-- MySQL spatial database
+**Stack:** Laravel · React.js · MySQL · REST API
 
-[![View Project](https://img.shields.io/badge/View-Project-success?style=flat-square)](https://github.com/wil17/gis-app)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://demo.com)
+[![Repo](https://img.shields.io/badge/View_Repo-1E1E2E?style=flat-square&logo=github)](https://github.com/wil17/ecommerce)
 
 </td>
 </tr>
@@ -174,36 +147,40 @@ Interactive web-based GIS application for spatial data visualization
 
 ---
 
-## 💼 What I'm Up To
-
-```diff
-+ 🎓 Studying Computer Science at Universitas Lambung Mangkurat
-+ 💡 Building projects to strengthen my full-stack development skills
-+ 🎯 Goal: Become a proficient Full Stack Developer
-+ 🤝 Open to collaborate on interesting web development projects
-+ 📫 Reach me at: willynurgian17@gmail.com
-```
-
----
-
-## 📚 Learning Journey
+## 📊 Vital Signs
 
 <div align="center">
 
-| Phase | Focus Area | Status |
-|-------|-----------|--------|
-| **Phase 1** | HTML, CSS, JavaScript Fundamentals | ✅ Completed |
-| **Phase 2** | Responsive Design & Frameworks | ✅ Completed |
-| **Phase 3** | Backend Development (PHP & Laravel) | ✅ Completed |
-| **Phase 4** | Modern JavaScript (React.js) | 🔄 In Progress |
-| **Phase 5** | Node.js & Express.js | 🔄 In Progress |
-| **Phase 6** | Advanced Full Stack Projects | 📋 Planned |
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wil17&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=89B4FA&text_color=CDD6F4"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wil17&layout=compact&langs_count=8&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wil17&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wil17&theme=react-dark&bg_color=1E1E2E&color=CBA6F7&line=89B4FA&point=F38BA8&hide_border=true&area=true&area_color=CBA6F7)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🏆 Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=wil17&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -213,48 +190,24 @@ Interactive web-based GIS application for spatial data visualization
 
 ---
 
-## 🎯 Skills Proficiency
+## 💭 Dev Quote
 
 <div align="center">
 
-```text
-Frontend Development   ███████████████░░░░░    75%
-Backend Development    ███████████████████     90%
-Database Management    ██████████████░░░░░░░   70%
-UI/UX Design          █████████████░░░░░░░░   65%
-Version Control       ████████████████████░   95%
-API Development       ██████████████░░░░░░░   70%
-```
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 
 </div>
 
 ---
 
-## 💭 Random Dev Quote
-
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+**"First, solve the problem. Then, write the code."**
 
-</div>
+*— Thanks for stopping by. Let's build something that matters. 🚀*
 
----
+[![Email](https://img.shields.io/badge/Say_Hello-willynurgian17@gmail.com-CBA6F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1E2E)](mailto:willynurgian17@gmail.com)
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-willynurgian17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willynurgian17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Willy_Nurgian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willynurgian)
-[![Instagram](https://img.shields.io/badge/Instagram-@yxzwil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yxzwil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portowebwilly.vercel.app/)
-
----
-
-### 💡 Open for Collaboration & Freelance Opportunities
-
-*"First, solve the problem. Then, write the code." - John Johnson*
-
-**Thanks for visiting! Let's build something amazing together! 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
